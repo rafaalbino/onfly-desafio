@@ -325,4 +325,4 @@ Agora que todos os testes passaram podemos compara o resumo do relatório da amo
 * \[✅] `pytest -q` passa com os testes fornecidos.
 * \[✅] `entrega/README-ENTREGA.md` preenchido.
 * \[✅] Sessão + declaração apenas no caminho com IA; investigação no README-ENTREGA nos dois caminhos.
-* \[❌] Repositório público no GitHub com o projeto e o link enviado.
+* \[✅] Repositório público no GitHub com o projeto e o link enviado.
